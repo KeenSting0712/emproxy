@@ -77,3 +77,9 @@ nohup ./EMProxy_x86 -destPool asia1.ethermine.org:5555 -drawPool asia1.ethermine
 ## 2.4 配置证书
 
 - 用你自己的证书替换掉目录中的 server.crt 和 server.key即可
+
+# 与我交流
+```azure
+    欢迎测试体验，提交issue
+    接受定制开发
+```
